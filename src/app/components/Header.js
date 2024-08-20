@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center px-4 md:px-0">
         <div className="text-xl md:text-2xl text-white font-bold" role="heading" aria-level="1">
           <a href="/" aria-label="VideoMax - YouTube and Reels Downloader Home">
-            VideoMax - YouTube and Reels Downloader
+             YouTube and Reels Downloader
           </a>
         </div>
         <nav aria-label="Language Selector">

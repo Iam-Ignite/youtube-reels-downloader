@@ -40,7 +40,7 @@ export default function Home() {
           url, // This is the URL entered by the user
         },
         headers: {
-          "x-rapidapi-key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
+          "x-rapidapi-key":"7cc361e202msh2b055fbf6365b7ep10456fjsn73d878075aa9",
           "x-rapidapi-host":
             "youtube-video-and-shorts-downloader1.p.rapidapi.com",
         },
