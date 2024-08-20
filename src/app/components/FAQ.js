@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React from 'react';
 
 const FAQ = () => {
@@ -17,7 +17,7 @@ const FAQ = () => {
           </div>
           <div className="p-4 bg-gray-800 rounded-lg">
             <h3 className="font-semibold">Where are the downloaded videos stored?</h3>
-            <p className="text-gray-400">They are stored in your download folder or browser's download history.</p>
+            <p className="text-gray-400">They are stored in your download folder or browser&apos;s download history.</p>
           </div>
           <div className="p-4 bg-gray-800 rounded-lg">
             <h3 className="font-semibold">Can we download unlimited videos?</h3>
